@@ -2,9 +2,6 @@
 
 For 25 years I had been a musician when in 2020 I discovered a new passion: coding.
 
-<a href="https://github.com/willemverbuyst/willemverbuyst"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willemverbuyst&langs_count=3&tex&title_color=f9826c&text_color=c9d1d9&icon_color=c9d1d9&bg_color=22272e"/></a>
-<a href="https://github.com/willemverbuyst/willemverbuyst"><img align="center" src="https://github-readme-stats.vercel.app/api?username=willemverbuyst&show_icons=true&line_height=27&count_private=true&title_color=f9826c&text_color=c9d1d9&icon_color=f9826c&bg_color=22272e"/></a>
-
 ![](https://img.shields.io/badge/TYPESCRIPT-informational?style=flat&logo=TypeScript&logoColor=white&color=17C0FF)
 ![](https://img.shields.io/badge/JAVASCRIPT-informational?style=flat&logo=JavaScript&logoColor=white&color=17C0FF)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=17C0FF)
