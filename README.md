@@ -5,6 +5,7 @@ For 25 years I had been a musician when in 2020 I discovered a new passion: codi
 What you'll find here:
 
 WEB
+
 ![](https://img.shields.io/badge/TYPESCRIPT-informational?style=flat&logo=TypeScript&logoColor=white&color=17C0FF)
 ![](https://img.shields.io/badge/JAVASCRIPT-informational?style=flat&logo=JavaScript&logoColor=white&color=17C0FF)
 ![](https://img.shields.io/badge/NODEJS-informational?style=flat&logo=node.js&logoColor=white&color=30E366)
@@ -27,19 +28,23 @@ WEB
 ![](https://img.shields.io/badge/THREEJS-informational?style=flat&logo=three.js&logoColor=white&color=30E366)
 
 TEST
+
 ![](https://img.shields.io/badge/JEST-informational?style=flat&logo=Jest&logoColor=white&color=17C0FF)
 ![](https://img.shields.io/badge/CYPRESS-informational?style=flat&logo=Cypress&logoColor=white&color=17C0FF)
 ![](https://img.shields.io/badge/PUPPETEER-informational?style=flat&logo=Puppeteer&logoColor=white&color=17C0FF)
 
 TOOLS
+
 ![](https://img.shields.io/badge/DOCKER-informational?style=flat&logo=Docker&logoColor=white&color=17C0FF)
 ![](https://img.shields.io/badge/GIT-informational?style=flat&logo=Git&logoColor=white&color=17C0FF)
 
 SHELL
+
 ![](https://img.shields.io/badge/POWERSHELL-informational?style=flat&logo=PowerShell&logoColor=white&color=77FA73)
 ![](https://img.shields.io/badge/BASH-informational?style=flat&logo=gnu-bash&logoColor=white&color=77FA73)
 
 OTHER
+
 ![](https://img.shields.io/badge/PYTHON-informational?style=flat&logo=PYTHON&logoColor=white&color=77FA73)
 ![](https://img.shields.io/badge/VBA-informational?style=flat&logo=VBA&logoColor=white&color=77FA73)
 ![](https://img.shields.io/badge/GO-informational?style=flat&logo=Go&logoColor=white&color=17C0FF)
