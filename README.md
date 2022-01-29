@@ -11,7 +11,7 @@ What you'll find here:
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=41FAB6)
 
 ![](https://img.shields.io/badge/SASS-informational?style=flat&logo=Sass&logoColor=white&color=41FAB6)
-![](https://img.shields.io/badge/MUI-informational?style=flat&logo=Mui&logoColor=white&color=17C0FF)
+![](https://img.shields.io/badge/MUI-informational?style=flat&logo=Mui&logoColor=white&color=41FAB6)
 ![](https://img.shields.io/badge/ANT%20DESIGN-informational?style=flat&logo=Svelte&logoColor=white&color=41FAB6)
 ![](https://img.shields.io/badge/BOOTSTRAP-informational?style=flat&logo=Bootstrap&logoColor=white&color=41FAB6)
 ![](https://img.shields.io/badge/STYLED%20COMPONENTS-informational?style=flat&logo=Styled-components&logoColor=white&color=41FAB6)
