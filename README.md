@@ -37,7 +37,3 @@ What you'll find here:
 ![](https://img.shields.io/badge/PYTHON-informational?style=flat&logo=PYTHON&logoColor=white&color=77FA73)
 ![](https://img.shields.io/badge/VBA-informational?style=flat&logo=VBA&logoColor=white&color=77FA73)
 ![](https://img.shields.io/badge/GO-informational?style=flat&logo=Go&logoColor=white&color=77FA73)
-
-<div>
-<iframe src="https://willemverbuyst.github.io/threeJS-react-list/" style="width:100%; height:300px;"></iframe>
-</div>
