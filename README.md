@@ -31,6 +31,7 @@ What you'll find here:
 ![](https://img.shields.io/badge/DOCKER-informational?style=flat&logo=Docker&logoColor=white&color=17C0FF)
 ![](https://img.shields.io/badge/GIT-informational?style=flat&logo=Git&logoColor=white&color=17C0FF)
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=17C0FF)
+![](https://img.shields.io/badge/GITHUB-ACTIONS-informational?style=flat&logo=GithubActions&logoColor=white&color=17C0FF)
 
 ![](https://img.shields.io/badge/BASH-informational?style=flat&logo=gnu-bash&logoColor=white&color=41FAB6)
 ![](https://img.shields.io/badge/POWERSHELL-informational?style=flat&logo=PowerShell&logoColor=white&color=41FAB6)
