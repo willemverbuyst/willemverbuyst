@@ -28,6 +28,7 @@ What you'll find here:
 ![](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/GITHUB-ACTIONS-informational?style=for-the-badge&logo=GithubActions&logoColor=white)
+![](https://img.shields.io/badge/WEBPACK-informational?style=for-the-badge&logo=Webpack&logoColor=white)
 ![](https://img.shields.io/badge/BASH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/POWERSHELL-informational?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![](https://img.shields.io/badge/PYTHON-informational?style=for-the-badge&logo=PYTHON&logoColor=white)
