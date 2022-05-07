@@ -32,5 +32,6 @@ What you'll find here:
 ![](https://img.shields.io/badge/BASH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/POWERSHELL-informational?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![](https://img.shields.io/badge/PYTHON-informational?style=for-the-badge&logo=PYTHON&logoColor=white)
+![](https://img.shields.io/badge/FASTAPI-informational?style=for-the-badge&logo=Fastapi&logoColor=white)
 ![](https://img.shields.io/badge/VBA-informational?style=for-the-badge&logo=VBA&logoColor=white)
 ![](https://img.shields.io/badge/GO-informational?style=for-the-badge&logo=Go&logoColor=white)
