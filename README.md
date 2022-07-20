@@ -2,7 +2,7 @@
 
 For 25 years I had been a musician when in 2020 I discovered a new passion: coding.
 
-What you'll find here:
+What you might find here:
 
 ![](https://img.shields.io/badge/TYPESCRIPT-informational?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/JAVASCRIPT-informational?style=for-the-badge&logo=JavaScript&logoColor=white)
