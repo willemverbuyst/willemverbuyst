@@ -1,7 +1,7 @@
-const Mustache = require('mustache');
-const fs = require('fs');
+const Mustache = require('mustache')
+const fs = require('fs')
 
-const README_TEMPLATE = './readme.mustache';
+const README_TEMPLATE = './readme.mustache'
 const DATA = {
   badges: [
     {
@@ -129,14 +129,14 @@ const DATA = {
       src: 'https://img.shields.io/badge/GO-informational?style=for-the-badge&logo=Go&logoColor=white',
     },
   ],
-};
+}
 
 function generateReadMe() {
   fs.readFile(README_TEMPLATE, (err, data) => {
-    if (err) throw err;
-    const output = Mustache.render(data.toString(), DATA);
-    fs.writeFileSync('README.md', output);
-  });
+    if (err) throw err
+    const output = Mustache.render(data.toString(), DATA)
+    fs.writeFileSync('README.md', output)
+  })
 }
 
-generateReadMe();
+generateReadMe()

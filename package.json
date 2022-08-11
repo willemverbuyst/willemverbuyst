@@ -4,7 +4,7 @@
   "description": "For 25 years I had been a musician when in 2020 I discovered a new passion: coding.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format:fix": "prettier --config .prettierrc . --write"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/willemverbuyst/willemverbuyst#readme",
   "dependencies": {
     "mustache": "^4.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
   }
 }
