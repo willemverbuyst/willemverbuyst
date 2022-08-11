@@ -4,6 +4,7 @@
 
 <p>What you might find here:</p>
 
+<p>
   <img alt="typescript" src="https://img.shields.io/badge/TYPESCRIPT-informational?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/JAVASCRIPT-informational?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="nodejs" src="https://img.shields.io/badge/NODEJS-informational?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -35,3 +36,4 @@
   <img alt="fastapi" src="https://img.shields.io/badge/FASTAPI-informational?style=for-the-badge&logo=Fastapi&logoColor=white"/>
   <img alt="vba" src="https://img.shields.io/badge/VBA-informational?style=for-the-badge&logo=VBA&logoColor=white"/>
   <img alt="go" src="https://img.shields.io/badge/GO-informational?style=for-the-badge&logo=Go&logoColor=white"/>
+</p>
