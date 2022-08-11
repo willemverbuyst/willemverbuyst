@@ -1,8 +1,6 @@
 <h2>Hi there <span>&#128075;</span></h2>
 
-<p>For  years I had been a musician when in 2020 I discovered a new passion: coding.</p>
-
-<br>
+<p>For 25 years I had been a musician when in 2020 I discovered a new passion: coding.</p>
 
 <p>What you might find here:</p>
 
