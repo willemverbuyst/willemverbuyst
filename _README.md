@@ -1,0 +1,37 @@
+## Hi there :wave:
+
+For 25 years I had been a musician when in 2020 I discovered a new passion: coding.
+
+What you might find here:
+
+![](https://img.shields.io/badge/TYPESCRIPT-informational?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/JAVASCRIPT-informational?style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/NODEJS-informational?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/SASS-informational?style=for-the-badge&logo=Sass&logoColor=white)
+![](https://img.shields.io/badge/MUI-informational?style=for-the-badge&logo=Mui&logoColor=white)
+![](https://img.shields.io/badge/ANT%20DESIGN-informational?style=for-the-badge&logo=Antdesign&logoColor=white)
+![](https://img.shields.io/badge/BOOTSTRAP-informational?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![](https://img.shields.io/badge/STYLED%20COMPONENTS-informational?style=for-the-badge&logo=Styled-components&logoColor=white)
+![](https://img.shields.io/badge/REACT-informational?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/ANGULAR-informational?style=for-the-badge&logo=Angular&logoColor=white)
+![](https://img.shields.io/badge/SVELTE-informational?style=for-the-badge&logo=Svelte&logoColor=white)
+![](https://img.shields.io/badge/REDUX-informational?style=for-the-badge&logo=Redux&logoColor=white)
+![](https://img.shields.io/badge/REACTQUERY-informational?style=for-the-badge&logo=ReactQuery&logoColor=white)
+![](https://img.shields.io/badge/CHARTJS-informational?style=for-the-badge&logo=chart.js&logoColor=white)
+![](https://img.shields.io/badge/THREEJS-informational?style=for-the-badge&logo=three.js&logoColor=white)
+![](https://img.shields.io/badge/JEST-informational?style=for-the-badge&logo=Jest&logoColor=white)
+![](https://img.shields.io/badge/CYPRESS-informational?style=for-the-badge&logo=Cypress&logoColor=white)
+![](https://img.shields.io/badge/PUPPETEER-informational?style=for-the-badge&logo=Puppeteer&logoColor=white)
+![](https://img.shields.io/badge/DOCKER-informational?style=for-the-badge&logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/GITHUB-ACTIONS-informational?style=for-the-badge&logo=GithubActions&logoColor=white)
+![](https://img.shields.io/badge/WEBPACK-informational?style=for-the-badge&logo=Webpack&logoColor=white)
+![](https://img.shields.io/badge/BASH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/POWERSHELL-informational?style=for-the-badge&logo=PowerShell&logoColor=white)
+![](https://img.shields.io/badge/PYTHON-informational?style=for-the-badge&logo=PYTHON&logoColor=white)
+![](https://img.shields.io/badge/FASTAPI-informational?style=for-the-badge&logo=Fastapi&logoColor=white)
+![](https://img.shields.io/badge/VBA-informational?style=for-the-badge&logo=VBA&logoColor=white)
+![](https://img.shields.io/badge/GO-informational?style=for-the-badge&logo=Go&logoColor=white)
