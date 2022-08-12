@@ -37,4 +37,5 @@
   <img alt="go" src="https://img.shields.io/badge/go-informational?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
-<p align="center">This <i>README</i> file is auto-generated!</br>Last update: 3:50:40 AM 8&#x2F;12&#x2F;2022</p>
+<p align="center">This <i>README</i> file is auto-generated!</br>Last update: 3:54:04 AM 8&#x2F;12&#x2F;2022</p>
+<p align="center">[![Generate README](https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg)](https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml)</p>
