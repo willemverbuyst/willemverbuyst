@@ -34,6 +34,7 @@
   <img alt="postman" src="https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&logoColor=white"/>
   <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
   <img alt="fastapi" src="https://img.shields.io/badge/fastapi-informational?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
   <img alt="docker" src="https://img.shields.io/badge/docker-informational?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
@@ -51,5 +52,5 @@
   <img alt="webcomponents" src="https://img.shields.io/badge/webcomponents-informational?style=for-the-badge&logo=webcomponents&logoColor=white"/>
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:36:32 AM 8&#x2F;12&#x2F;2022</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:59:35 AM 8&#x2F;12&#x2F;2022</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
