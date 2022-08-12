@@ -39,7 +39,7 @@ function generateReadMe() {
   fs.readFile(README_TEMPLATE, (err, data) => {
     if (err) throw err
     const DATA = {
-      date: new Date().toLocaleDateString(),
+      date: `${new Date().toLocaleTimeString()} ${new Date().toLocaleDateString()}`,
       badges: BADGES.map((badge) => ({
         alt: badge,
         src: `https://img.shields.io/badge/${badge}-informational?style=for-the-badge&logo=${badge}&logoColor=white`,
