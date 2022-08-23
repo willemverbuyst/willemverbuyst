@@ -55,7 +55,7 @@
   <img alt="npmpackage" src="https://img.shields.io/badge/npmpackage-informational?style=for-the-badge&logo=npmpackage&logoColor=white"/>
   <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
   <img alt="redis" src="https://img.shields.io/badge/redis-informational?style=for-the-badge&logo=redis&logoColor=white"/>
-</dov>
+</div>
 
 <p align="center">This <i>README</i> is auto-generated!</br>Last update: 12:25:32 PM 8&#x2F;23&#x2F;2022</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
