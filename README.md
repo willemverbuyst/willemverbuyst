@@ -4,7 +4,7 @@
 
 <p>What you might find here:</p>
 
-<div style="margin:auto;">
+<p>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
@@ -55,7 +55,7 @@
   <img alt="npmpackage" src="https://img.shields.io/badge/npmpackage-informational?style=for-the-badge&logo=npmpackage&logoColor=white"/>
   <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
   <img alt="redis" src="https://img.shields.io/badge/redis-informational?style=for-the-badge&logo=redis&logoColor=white"/>
-</div>
+</p>
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 12:25:32 PM 8&#x2F;23&#x2F;2022</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 4:24:04 PM 8&#x2F;23&#x2F;2022</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
