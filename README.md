@@ -54,10 +54,10 @@
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
   <img alt="powershell" src="https://img.shields.io/badge/powershell-informational?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img alt="npmpackage" src="https://img.shields.io/badge/npmpackage-informational?style=for-the-badge&logo=npmpackage&logoColor=white"/>
-  <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
   <img alt="redis" src="https://img.shields.io/badge/redis-informational?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 1:18:45 AM 8&#x2F;25&#x2F;2022</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:27:34 AM 8&#x2F;25&#x2F;2022</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
