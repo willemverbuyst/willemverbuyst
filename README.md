@@ -6,6 +6,7 @@
 
 
 <p align="center">
+  <img alt="svelte" src="https://img.shields.io/badge/svelte-informational?style=for-the-badge&logo=svelte&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
@@ -33,7 +34,6 @@
   <img alt="cssgridlayout" src="https://img.shields.io/badge/cssgridlayout-informational?style=for-the-badge&logo=cssgridlayout&logoColor=white"/>
   <img alt="three.js" src="https://img.shields.io/badge/three.js-informational?style=for-the-badge&logo=three.js&logoColor=white"/>
   <img alt="express" src="https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="svelte" src="https://img.shields.io/badge/svelte-informational?style=for-the-badge&logo=svelte&logoColor=white"/>
   <img alt="rest" src="https://img.shields.io/badge/rest-informational?style=for-the-badge&logo=rest&logoColor=white"/>
   <img alt="postgresql" src="https://img.shields.io/badge/postgresql-informational?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="prisma" src="https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white"/>
@@ -59,5 +59,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 12:27:10 PM 8&#x2F;25&#x2F;2022</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:15:09 PM 8&#x2F;25&#x2F;2022</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
