@@ -17,10 +17,10 @@
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="svelte" src="https://img.shields.io/badge/svelte-informational?style=for-the-badge&logo=svelte&logoColor=white"/>
   <img alt="xstate" src="https://img.shields.io/badge/xstate-informational?style=for-the-badge&logo=xstate&logoColor=white"/>
-  <img alt="nodejs" src="https://img.shields.io/badge/nodejs-informational?style=for-the-badge&logo=nodejs&logoColor=white"/>
   <img alt="express" src="https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="rest" src="https://img.shields.io/badge/rest-informational?style=for-the-badge&logo=rest&logoColor=white"/>
   <img alt="postgresql" src="https://img.shields.io/badge/postgresql-informational?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="node.js" src="https://img.shields.io/badge/node.js-informational?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="prisma" src="https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
@@ -60,5 +60,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 4:31:34 AM 9&#x2F;3&#x2F;2022</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 4:35:48 AM 9&#x2F;3&#x2F;2022</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
