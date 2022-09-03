@@ -17,11 +17,9 @@
     "url": "https://github.com/willemverbuyst/willemverbuyst/issues"
   },
   "homepage": "https://github.com/willemverbuyst/willemverbuyst#readme",
-  "dependencies": {
-    "mustache": "^4.2.0",
-    "puppeteer": "^16.1.0"
-  },
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "mustache": "^4.2.0",
+    "prettier": "^2.7.1",
+    "puppeteer": "^16.1.0"
   }
 }
