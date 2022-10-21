@@ -6,6 +6,10 @@
 
 
 <p align="center">
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
+  <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="redux" src="https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&logoColor=white"/>
   <img alt="express" src="https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -18,10 +22,6 @@
   <img alt="swagger" src="https://img.shields.io/badge/swagger-informational?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img alt="gin.gonic" src="https://img.shields.io/badge/gin.gonic-informational?style=for-the-badge&logo=gin.gonic&logoColor=white"/>
   <img alt="docker.compse" src="https://img.shields.io/badge/docker.compse-informational?style=for-the-badge&logo=docker.compse&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
-  <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
-  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="obsidian" src="https://img.shields.io/badge/obsidian-informational?style=for-the-badge&logo=obsidian&logoColor=white"/>
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="gin" src="https://img.shields.io/badge/gin-informational?style=for-the-badge&logo=gin&logoColor=white"/>
@@ -66,5 +66,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:37:29 AM 10&#x2F;20&#x2F;2022</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:39:48 AM 10&#x2F;21&#x2F;2022</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
