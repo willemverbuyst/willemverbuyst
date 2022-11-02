@@ -6,6 +6,10 @@
 
 
 <p align="center">
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
+  <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
   <img alt="docker" src="https://img.shields.io/badge/docker-informational?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -28,7 +32,6 @@
   <img alt="redux" src="https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&logoColor=white"/>
   <img alt="sequelize" src="https://img.shields.io/badge/sequelize-informational?style=for-the-badge&logo=sequelize&logoColor=white"/>
   <img alt="postman" src="https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="css3" src="https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
@@ -39,9 +42,6 @@
   <img alt="husky" src="https://img.shields.io/badge/husky-informational?style=for-the-badge&logo=husky&logoColor=white"/>
   <img alt="cssgridlayout" src="https://img.shields.io/badge/cssgridlayout-informational?style=for-the-badge&logo=cssgridlayout&logoColor=white"/>
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
-  <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
-  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="react.form.hook" src="https://img.shields.io/badge/react.form.hook-informational?style=for-the-badge&logo=react.form.hook&logoColor=white"/>
   <img alt="webcomponents" src="https://img.shields.io/badge/webcomponents-informational?style=for-the-badge&logo=webcomponents&logoColor=white"/>
   <img alt="go" src="https://img.shields.io/badge/go-informational?style=for-the-badge&logo=go&logoColor=white"/>
@@ -66,5 +66,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:31:29 AM 11&#x2F;1&#x2F;2022</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:30:21 AM 11&#x2F;2&#x2F;2022</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
