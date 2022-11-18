@@ -6,16 +6,18 @@
 
 
 <p align="center">
+  <img alt="obsidian" src="https://img.shields.io/badge/obsidian-informational?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  <img alt="jupyter" src="https://img.shields.io/badge/jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
+  <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="express" src="https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="node.js" src="https://img.shields.io/badge/node.js-informational?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="prisma" src="https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img alt="antdesign" src="https://img.shields.io/badge/antdesign-informational?style=for-the-badge&logo=antdesign&logoColor=white"/>
   <img alt="chart.js" src="https://img.shields.io/badge/chart.js-informational?style=for-the-badge&logo=chart.js&logoColor=white"/>
   <img alt="reactquery" src="https://img.shields.io/badge/reactquery-informational?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
-  <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
-  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="three.js" src="https://img.shields.io/badge/three.js-informational?style=for-the-badge&logo=three.js&logoColor=white"/>
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="sequelize" src="https://img.shields.io/badge/sequelize-informational?style=for-the-badge&logo=sequelize&logoColor=white"/>
@@ -53,11 +55,9 @@
   <img alt="go" src="https://img.shields.io/badge/go-informational?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="swagger" src="https://img.shields.io/badge/swagger-informational?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img alt="gin.gonic" src="https://img.shields.io/badge/gin.gonic-informational?style=for-the-badge&logo=gin.gonic&logoColor=white"/>
-  <img alt="obsidian" src="https://img.shields.io/badge/obsidian-informational?style=for-the-badge&logo=obsidian&logoColor=white"/>
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="gin" src="https://img.shields.io/badge/gin-informational?style=for-the-badge&logo=gin&logoColor=white"/>
   <img alt="parallax" src="https://img.shields.io/badge/parallax-informational?style=for-the-badge&logo=parallax&logoColor=white"/>
-  <img alt="jupyter" src="https://img.shields.io/badge/jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="vba" src="https://img.shields.io/badge/vba-informational?style=for-the-badge&logo=vba&logoColor=white"/>
   <img alt="xlam" src="https://img.shields.io/badge/xlam-informational?style=for-the-badge&logo=xlam&logoColor=white"/>
   <img alt="powershell" src="https://img.shields.io/badge/powershell-informational?style=for-the-badge&logo=powershell&logoColor=white"/>
@@ -68,5 +68,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:00:20 PM 11&#x2F;17&#x2F;2022</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:24:25 AM 11&#x2F;18&#x2F;2022</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
