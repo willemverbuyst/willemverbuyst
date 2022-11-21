@@ -63,10 +63,8 @@
   <img alt="powershell" src="https://img.shields.io/badge/powershell-informational?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img alt="npm" src="https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm&logoColor=white"/>
   <img alt="prettier" src="https://img.shields.io/badge/prettier-informational?style=for-the-badge&logo=prettier&logoColor=white"/>
-  <img alt="redis" src="https://img.shields.io/badge/redis-informational?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:22:52 AM 11&#x2F;20&#x2F;2022</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:25:50 AM 11&#x2F;21&#x2F;2022</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
