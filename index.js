@@ -10,13 +10,21 @@ async function runPuppeteer() {
 
   await page.goto('https://github.com/willemverbuyst?tab=repositories')
   const frame = page.mainFrame()
-  const topics = await frame.evaluate(() =>
+  const topicsPageOne = await frame.evaluate(() =>
     [...document.querySelectorAll('.topic-tag')].map((tag) => tag.innerText)
   )
+
+  await page.goto('https://github.com/willemverbuyst?page=2&tab=repositories')
+  const frame2 = page.mainFrame()
+  const topicsPageTwo = await frame2.evaluate(() =>
+    [...document.querySelectorAll('.topic-tag')].map((tag) => tag.innerText)
+  )
+
   await page.close()
+
   await browser.close()
 
-  return topics
+  return [...topicsPageOne, ...topicsPageTwo]
 }
 
 function removeDuplicates(topics) {
