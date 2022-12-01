@@ -19,7 +19,7 @@
   "homepage": "https://github.com/willemverbuyst/willemverbuyst#readme",
   "devDependencies": {
     "mustache": "^4.2.0",
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.0",
     "puppeteer": "^16.2.0"
   }
 }
