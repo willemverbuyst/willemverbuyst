@@ -6,6 +6,10 @@
 
 
 <p align="center">
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
+  <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="express" src="https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="node.js" src="https://img.shields.io/badge/node.js-informational?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="prisma" src="https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white"/>
@@ -29,7 +33,6 @@
   <img alt="husky" src="https://img.shields.io/badge/husky-informational?style=for-the-badge&logo=husky&logoColor=white"/>
   <img alt="cssgridlayout" src="https://img.shields.io/badge/cssgridlayout-informational?style=for-the-badge&logo=cssgridlayout&logoColor=white"/>
   <img alt="sequelize" src="https://img.shields.io/badge/sequelize-informational?style=for-the-badge&logo=sequelize&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="css3" src="https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
@@ -42,9 +45,6 @@
   <img alt="swagger" src="https://img.shields.io/badge/swagger-informational?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img alt="gin" src="https://img.shields.io/badge/gin-informational?style=for-the-badge&logo=gin&logoColor=white"/>
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
-  <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
-  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="webcomponents" src="https://img.shields.io/badge/webcomponents-informational?style=for-the-badge&logo=webcomponents&logoColor=white"/>
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -69,5 +69,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:19:19 AM 1&#x2F;1&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:20:25 AM 1&#x2F;2&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
