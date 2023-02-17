@@ -6,6 +6,10 @@
 
 
 <p align="center">
+  <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="chakra" src="https://img.shields.io/badge/chakra-informational?style=for-the-badge&logo=chakra&logoColor=white"/>
+  <img alt="vite" src="https://img.shields.io/badge/vite-informational?style=for-the-badge&logo=vite&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
@@ -16,9 +20,6 @@
   <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
   <img alt="cypress" src="https://img.shields.io/badge/cypress-informational?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img alt="fastapi" src="https://img.shields.io/badge/fastapi-informational?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="vite" src="https://img.shields.io/badge/vite-informational?style=for-the-badge&logo=vite&logoColor=white"/>
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
   <img alt="webpack" src="https://img.shields.io/badge/webpack-informational?style=for-the-badge&logo=webpack&logoColor=white"/>
@@ -67,5 +68,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:21:28 AM 2&#x2F;16&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:21:57 AM 2&#x2F;17&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
