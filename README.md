@@ -8,11 +8,11 @@
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
-  <img alt="docker" src="https://img.shields.io/badge/docker-informational?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
-  <img alt="cypress" src="https://img.shields.io/badge/cypress-informational?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img alt="vite" src="https://img.shields.io/badge/vite-informational?style=for-the-badge&logo=vite&logoColor=white"/>
   <img alt="fastapi" src="https://img.shields.io/badge/fastapi-informational?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="chakraui" src="https://img.shields.io/badge/chakraui-informational?style=for-the-badge&logo=chakraui&logoColor=white"/>
+  <img alt="vitest" src="https://img.shields.io/badge/vitest-informational?style=for-the-badge&logo=vitest&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
@@ -43,6 +43,7 @@
   <img alt="markdown" src="https://img.shields.io/badge/markdown-informational?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img alt="mermaidjs" src="https://img.shields.io/badge/mermaidjs-informational?style=for-the-badge&logo=mermaidjs&logoColor=white"/>
   <img alt="go" src="https://img.shields.io/badge/go-informational?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="docker" src="https://img.shields.io/badge/docker-informational?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="swagger" src="https://img.shields.io/badge/swagger-informational?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img alt="gin" src="https://img.shields.io/badge/gin-informational?style=for-the-badge&logo=gin&logoColor=white"/>
@@ -58,6 +59,7 @@
   <img alt="jupyter" src="https://img.shields.io/badge/jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="postman" src="https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&logoColor=white"/>
   <img alt="socket.io" src="https://img.shields.io/badge/socket.io-informational?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img alt="cypress" src="https://img.shields.io/badge/cypress-informational?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img alt="vba" src="https://img.shields.io/badge/vba-informational?style=for-the-badge&logo=vba&logoColor=white"/>
   <img alt="xlam" src="https://img.shields.io/badge/xlam-informational?style=for-the-badge&logo=xlam&logoColor=white"/>
   <img alt="npm" src="https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm&logoColor=white"/>
@@ -67,5 +69,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:22:52 AM 2&#x2F;27&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:22:33 AM 2&#x2F;28&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
