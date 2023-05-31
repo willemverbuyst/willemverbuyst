@@ -1,6 +1,6 @@
 <h2>Hi there <span>&#128075;</span></h2>
 
-<p>For 25 years it was all about music when in 2020 I discovered a new passion: coding.</p>
+<p>For 25 years I had been a musician when in 2020 I discovered a new passion: coding.</p>
 
 <p>What you might find here:</p>
 
@@ -69,5 +69,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:18:51 AM 5&#x2F;30&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 2:17:15 AM 5&#x2F;31&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
