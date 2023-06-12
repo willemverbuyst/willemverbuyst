@@ -6,6 +6,13 @@
 
 
 <p align="center">
+  <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img alt="vite" src="https://img.shields.io/badge/vite-informational?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img alt="fastapi" src="https://img.shields.io/badge/fastapi-informational?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="chakraui" src="https://img.shields.io/badge/chakraui-informational?style=for-the-badge&logo=chakraui&logoColor=white"/>
+  <img alt="vitest" src="https://img.shields.io/badge/vitest-informational?style=for-the-badge&logo=vitest&logoColor=white"/>
   <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="lexical" src="https://img.shields.io/badge/lexical-informational?style=for-the-badge&logo=lexical&logoColor=white"/>
@@ -15,13 +22,6 @@
   <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
-  <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
-  <img alt="vite" src="https://img.shields.io/badge/vite-informational?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img alt="fastapi" src="https://img.shields.io/badge/fastapi-informational?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img alt="chakraui" src="https://img.shields.io/badge/chakraui-informational?style=for-the-badge&logo=chakraui&logoColor=white"/>
-  <img alt="vitest" src="https://img.shields.io/badge/vitest-informational?style=for-the-badge&logo=vitest&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="css3" src="https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="dependabot" src="https://img.shields.io/badge/dependabot-informational?style=for-the-badge&logo=dependabot&logoColor=white"/>
@@ -70,5 +70,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:17:58 AM 6&#x2F;11&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:19:52 AM 6&#x2F;12&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
