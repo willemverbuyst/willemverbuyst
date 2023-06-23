@@ -1,5 +1,7 @@
 <h2>Hi there <span>&#128075;</span></h2>
 
+<p>For 25 years I had been a musician when in 2020 I discovered a new passion: coding.</p>
+
 <p>What you might find here:</p>
 
 
@@ -8,6 +10,8 @@
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
   <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="zod" src="https://img.shields.io/badge/zod-informational?style=for-the-badge&logo=zod&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
   <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
@@ -16,7 +20,6 @@
   <img alt="chakraui" src="https://img.shields.io/badge/chakraui-informational?style=for-the-badge&logo=chakraui&logoColor=white"/>
   <img alt="vitest" src="https://img.shields.io/badge/vitest-informational?style=for-the-badge&logo=vitest&logoColor=white"/>
   <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="lexical" src="https://img.shields.io/badge/lexical-informational?style=for-the-badge&logo=lexical&logoColor=white"/>
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
@@ -42,7 +45,6 @@
   <img alt="svelte" src="https://img.shields.io/badge/svelte-informational?style=for-the-badge&logo=svelte&logoColor=white"/>
   <img alt="xstate" src="https://img.shields.io/badge/xstate-informational?style=for-the-badge&logo=xstate&logoColor=white"/>
   <img alt="powershell" src="https://img.shields.io/badge/powershell-informational?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img alt="zod" src="https://img.shields.io/badge/zod-informational?style=for-the-badge&logo=zod&logoColor=white"/>
   <img alt="batchfile" src="https://img.shields.io/badge/batchfile-informational?style=for-the-badge&logo=batchfile&logoColor=white"/>
   <img alt="markdown" src="https://img.shields.io/badge/markdown-informational?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img alt="mermaidjs" src="https://img.shields.io/badge/mermaidjs-informational?style=for-the-badge&logo=mermaidjs&logoColor=white"/>
@@ -68,5 +70,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:19:17 AM 6&#x2F;22&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 2:54:31 AM 6&#x2F;23&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
