@@ -6,8 +6,13 @@
 
 
 <p align="center">
-  <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="webpack" src="https://img.shields.io/badge/webpack-informational?style=for-the-badge&logo=webpack&logoColor=white"/>
+  <img alt="eslint" src="https://img.shields.io/badge/eslint-informational?style=for-the-badge&logo=eslint&logoColor=white"/>
+  <img alt="jest" src="https://img.shields.io/badge/jest-informational?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img alt="husky" src="https://img.shields.io/badge/husky-informational?style=for-the-badge&logo=husky&logoColor=white"/>
+  <img alt="cssgridlayout" src="https://img.shields.io/badge/cssgridlayout-informational?style=for-the-badge&logo=cssgridlayout&logoColor=white"/>
+  <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="lexical" src="https://img.shields.io/badge/lexical-informational?style=for-the-badge&logo=lexical&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
@@ -27,11 +32,6 @@
   <img alt="css3" src="https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="dependabot" src="https://img.shields.io/badge/dependabot-informational?style=for-the-badge&logo=dependabot&logoColor=white"/>
   <img alt="parallax" src="https://img.shields.io/badge/parallax-informational?style=for-the-badge&logo=parallax&logoColor=white"/>
-  <img alt="webpack" src="https://img.shields.io/badge/webpack-informational?style=for-the-badge&logo=webpack&logoColor=white"/>
-  <img alt="eslint" src="https://img.shields.io/badge/eslint-informational?style=for-the-badge&logo=eslint&logoColor=white"/>
-  <img alt="jest" src="https://img.shields.io/badge/jest-informational?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img alt="husky" src="https://img.shields.io/badge/husky-informational?style=for-the-badge&logo=husky&logoColor=white"/>
-  <img alt="cssgridlayout" src="https://img.shields.io/badge/cssgridlayout-informational?style=for-the-badge&logo=cssgridlayout&logoColor=white"/>
   <img alt="obsidian" src="https://img.shields.io/badge/obsidian-informational?style=for-the-badge&logo=obsidian&logoColor=white"/>
   <img alt="webcomponents" src="https://img.shields.io/badge/webcomponents-informational?style=for-the-badge&logo=webcomponents&logoColor=white"/>
   <img alt="express" src="https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white"/>
@@ -70,5 +70,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:22:04 AM 6&#x2F;28&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:22:22 AM 6&#x2F;29&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
