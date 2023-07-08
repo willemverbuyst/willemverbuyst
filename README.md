@@ -1,9 +1,6 @@
-<h2>Hi there <span>&#128075;</span></h2>
-
-<p>For 25 years I had been a musician when in 2020 I discovered a new passion: coding.</p>
+<h2>Hello fellow nerd, friend & colleague, recruiter & AI bot <span>&#128075;</span></h2>
 
 <p>What you might find here:</p>
-
 
 <p align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -70,5 +67,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:22:20 AM 7&#x2F;7&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 2:46:42 AM 7&#x2F;8&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
