@@ -3,6 +3,15 @@
 <p>What you might find here:</p>
 
 <p align="center">
+  <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img alt="vite" src="https://img.shields.io/badge/vite-informational?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img alt="fastapi" src="https://img.shields.io/badge/fastapi-informational?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="chakraui" src="https://img.shields.io/badge/chakraui-informational?style=for-the-badge&logo=chakraui&logoColor=white"/>
+  <img alt="vitest" src="https://img.shields.io/badge/vitest-informational?style=for-the-badge&logo=vitest&logoColor=white"/>
+  <img alt="nextjs" src="https://img.shields.io/badge/nextjs-informational?style=for-the-badge&logo=nextjs&logoColor=white"/>
+  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-informational?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="nestjs" src="https://img.shields.io/badge/nestjs-informational?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -21,15 +30,8 @@
   <img alt="cssgridlayout" src="https://img.shields.io/badge/cssgridlayout-informational?style=for-the-badge&logo=cssgridlayout&logoColor=white"/>
   <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="lexical" src="https://img.shields.io/badge/lexical-informational?style=for-the-badge&logo=lexical&logoColor=white"/>
-  <img alt="vite" src="https://img.shields.io/badge/vite-informational?style=for-the-badge&logo=vite&logoColor=white"/>
   <img alt="cypress" src="https://img.shields.io/badge/cypress-informational?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img alt="zod" src="https://img.shields.io/badge/zod-informational?style=for-the-badge&logo=zod&logoColor=white"/>
-  <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
-  <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
-  <img alt="fastapi" src="https://img.shields.io/badge/fastapi-informational?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img alt="chakraui" src="https://img.shields.io/badge/chakraui-informational?style=for-the-badge&logo=chakraui&logoColor=white"/>
-  <img alt="vitest" src="https://img.shields.io/badge/vitest-informational?style=for-the-badge&logo=vitest&logoColor=white"/>
   <img alt="three.js" src="https://img.shields.io/badge/three.js-informational?style=for-the-badge&logo=three.js&logoColor=white"/>
   <img alt="parallax" src="https://img.shields.io/badge/parallax-informational?style=for-the-badge&logo=parallax&logoColor=white"/>
   <img alt="obsidian" src="https://img.shields.io/badge/obsidian-informational?style=for-the-badge&logo=obsidian&logoColor=white"/>
@@ -68,5 +70,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:17:47 AM 8&#x2F;6&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:18:59 AM 8&#x2F;7&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
