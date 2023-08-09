@@ -3,12 +3,12 @@
 <p>What you might find here:</p>
 
 <p align="center">
+  <img alt="go" src="https://img.shields.io/badge/go-informational?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="htmx" src="https://img.shields.io/badge/htmx-informational?style=for-the-badge&logo=htmx&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
   <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img alt="go" src="https://img.shields.io/badge/go-informational?style=for-the-badge&logo=go&logoColor=white"/>
-  <img alt="htmx" src="https://img.shields.io/badge/htmx-informational?style=for-the-badge&logo=htmx&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
   <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
@@ -71,5 +71,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:18:16 AM 8&#x2F;8&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:18:49 AM 8&#x2F;9&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
