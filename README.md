@@ -3,16 +3,13 @@
 <p>What you might find here:</p>
 
 <p align="center">
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="husky" src="https://img.shields.io/badge/husky-informational?style=for-the-badge&logo=husky&logoColor=white"/>
+  <img alt="cssgridlayout" src="https://img.shields.io/badge/cssgridlayout-informational?style=for-the-badge&logo=cssgridlayout&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
   <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="webpack" src="https://img.shields.io/badge/webpack-informational?style=for-the-badge&logo=webpack&logoColor=white"/>
-  <img alt="eslint" src="https://img.shields.io/badge/eslint-informational?style=for-the-badge&logo=eslint&logoColor=white"/>
-  <img alt="jest" src="https://img.shields.io/badge/jest-informational?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img alt="husky" src="https://img.shields.io/badge/husky-informational?style=for-the-badge&logo=husky&logoColor=white"/>
-  <img alt="cssgridlayout" src="https://img.shields.io/badge/cssgridlayout-informational?style=for-the-badge&logo=cssgridlayout&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
   <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
@@ -37,6 +34,7 @@
   <img alt="three.js" src="https://img.shields.io/badge/three.js-informational?style=for-the-badge&logo=three.js&logoColor=white"/>
   <img alt="parallax" src="https://img.shields.io/badge/parallax-informational?style=for-the-badge&logo=parallax&logoColor=white"/>
   <img alt="obsidian" src="https://img.shields.io/badge/obsidian-informational?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  <img alt="webpack" src="https://img.shields.io/badge/webpack-informational?style=for-the-badge&logo=webpack&logoColor=white"/>
   <img alt="webcomponents" src="https://img.shields.io/badge/webcomponents-informational?style=for-the-badge&logo=webcomponents&logoColor=white"/>
   <img alt="express" src="https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="node.js" src="https://img.shields.io/badge/node.js-informational?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -61,15 +59,17 @@
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="jupyter" src="https://img.shields.io/badge/jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="postman" src="https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt="jest" src="https://img.shields.io/badge/jest-informational?style=for-the-badge&logo=jest&logoColor=white"/>
   <img alt="socket.io" src="https://img.shields.io/badge/socket.io-informational?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img alt="vba" src="https://img.shields.io/badge/vba-informational?style=for-the-badge&logo=vba&logoColor=white"/>
   <img alt="xlam" src="https://img.shields.io/badge/xlam-informational?style=for-the-badge&logo=xlam&logoColor=white"/>
   <img alt="npm" src="https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img alt="eslint" src="https://img.shields.io/badge/eslint-informational?style=for-the-badge&logo=eslint&logoColor=white"/>
   <img alt="prettier" src="https://img.shields.io/badge/prettier-informational?style=for-the-badge&logo=prettier&logoColor=white"/>
   <img alt="redis" src="https://img.shields.io/badge/redis-informational?style=for-the-badge&logo=redis&logoColor=white"/>
   <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:16:40 AM 9&#x2F;9&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:17:26 AM 9&#x2F;10&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
