@@ -3,13 +3,13 @@
 <p>What you might find here:</p>
 
 <p align="center">
-  <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="lexical" src="https://img.shields.io/badge/lexical-informational?style=for-the-badge&logo=lexical&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
   <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="lexical" src="https://img.shields.io/badge/lexical-informational?style=for-the-badge&logo=lexical&logoColor=white"/>
   <img alt="overmind" src="https://img.shields.io/badge/overmind-informational?style=for-the-badge&logo=overmind&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
@@ -71,5 +71,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:17:42 AM 9&#x2F;23&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:17:22 AM 9&#x2F;24&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
