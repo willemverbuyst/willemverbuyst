@@ -7,9 +7,9 @@
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
   <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img alt="lsm" src="https://img.shields.io/badge/lsm-informational?style=for-the-badge&logo=lsm&logoColor=white"/>
   <img alt="zod" src="https://img.shields.io/badge/zod-informational?style=for-the-badge&logo=zod&logoColor=white"/>
-  <img alt="react.hook.form" src="https://img.shields.io/badge/react.hook.form-informational?style=for-the-badge&logo=react.hook.form&logoColor=white"/>
-  <img alt="little.state.machine" src="https://img.shields.io/badge/little.state.machine-informational?style=for-the-badge&logo=little.state.machine&logoColor=white"/>
+  <img alt="rhf" src="https://img.shields.io/badge/rhf-informational?style=for-the-badge&logo=rhf&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
   <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
@@ -73,5 +73,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 4:30:07 AM 9&#x2F;26&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:19:18 AM 9&#x2F;26&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
