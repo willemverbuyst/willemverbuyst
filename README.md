@@ -70,6 +70,5 @@
   <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
 </p>
 
-
 <p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:19:32 AM 9&#x2F;28&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
