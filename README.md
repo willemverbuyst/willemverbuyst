@@ -71,5 +71,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 4:31:07 AM 9&#x2F;29&#x2F;2023</p>
-<p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/workflows/Generate%20README/badge.svg" /></p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 4:35:51 AM 9&#x2F;29&#x2F;2023</p>
+<p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
