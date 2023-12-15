@@ -3,6 +3,7 @@
 <p>What you might find here:</p>
 
 <p align="center">
+  <img alt="fastify" src="https://img.shields.io/badge/fastify-informational?style=for-the-badge&logo=fastify&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
@@ -71,5 +72,5 @@
 </p>
 
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:20:13 AM 12&#x2F;14&#x2F;2023</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:19:48 AM 12&#x2F;15&#x2F;2023</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
