@@ -69,6 +69,5 @@
   <img alt="postman" src="https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-
 <p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:23:18 AM 8&#x2F;3&#x2F;2024</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
