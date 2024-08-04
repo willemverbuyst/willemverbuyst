@@ -28,7 +28,6 @@
   <img alt="playwright" src="https://img.shields.io/badge/playwright-informational?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img alt="npm" src="https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm&logoColor=white"/>
   <img alt="eslint" src="https://img.shields.io/badge/eslint-informational?style=for-the-badge&logo=eslint&logoColor=white"/>
-  <img alt="prettier" src="https://img.shields.io/badge/prettier-informational?style=for-the-badge&logo=prettier&logoColor=white"/>
   <img alt="vue.js" src="https://img.shields.io/badge/vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img alt="ejs" src="https://img.shields.io/badge/ejs-informational?style=for-the-badge&logo=ejs&logoColor=white"/>
   <img alt="fastify" src="https://img.shields.io/badge/fastify-informational?style=for-the-badge&logo=fastify&logoColor=white"/>
@@ -69,5 +68,5 @@
   <img alt="postman" src="https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 2:34:47 AM 8&#x2F;4&#x2F;2024</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 2:55:23 AM 8&#x2F;4&#x2F;2024</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
