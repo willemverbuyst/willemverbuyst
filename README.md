@@ -3,6 +3,10 @@
 <p>What you might find here:</p>
 
 <p align="center">
+  <img alt="nextjs" src="https://img.shields.io/badge/nextjs-informational?style=for-the-badge&logo=nextjs&logoColor=white"/>
+  <img alt="lodash" src="https://img.shields.io/badge/lodash-informational?style=for-the-badge&logo=lodash&logoColor=white"/>
+  <img alt="github.actions" src="https://img.shields.io/badge/github.actions-informational?style=for-the-badge&logo=github.actions&logoColor=white"/>
+  <img alt="shadcn" src="https://img.shields.io/badge/shadcn-informational?style=for-the-badge&logo=shadcn&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
@@ -68,5 +72,5 @@
   <img alt="postman" src="https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:24:03 AM 8&#x2F;11&#x2F;2024</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 7:27:20 AM 8&#x2F;11&#x2F;2024</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
