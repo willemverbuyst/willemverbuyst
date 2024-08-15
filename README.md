@@ -3,13 +3,13 @@
 <p>What you might find here:</p>
 
 <p align="center">
+  <img alt="lodash" src="https://img.shields.io/badge/lodash-informational?style=for-the-badge&logo=lodash&logoColor=white"/>
+  <img alt="next.js" src="https://img.shields.io/badge/next.js-informational?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img alt="shadcnui" src="https://img.shields.io/badge/shadcnui-informational?style=for-the-badge&logo=shadcnui&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
-  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img alt="lodash" src="https://img.shields.io/badge/lodash-informational?style=for-the-badge&logo=lodash&logoColor=white"/>
-  <img alt="next.js" src="https://img.shields.io/badge/next.js-informational?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="shadcnui" src="https://img.shields.io/badge/shadcnui-informational?style=for-the-badge&logo=shadcnui&logoColor=white"/>
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="css3" src="https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -70,5 +70,5 @@
   <img alt="postman" src="https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:24:00 AM 8&#x2F;14&#x2F;2024</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:23:58 AM 8&#x2F;15&#x2F;2024</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
