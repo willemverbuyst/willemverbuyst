@@ -20,11 +20,17 @@ async function runPuppeteer() {
     [...document.querySelectorAll(".topic-tag")].map((tag) => tag.innerText),
   );
 
+  await page.goto("https://github.com/willemverbuyst?page=3&tab=repositories");
+  const frame3 = page.mainFrame();
+  const topicsPageThree = await frame3.evaluate(() =>
+    [...document.querySelectorAll(".topic-tag")].map((tag) => tag.innerText),
+  );
+
   await page.close();
 
   await browser.close();
 
-  return [...topicsPageOne, ...topicsPageTwo];
+  return [...topicsPageOne, ...topicsPageTwo, ...topicsPageThree];
 }
 
 function removeDuplicates(topics) {
