@@ -3,34 +3,33 @@ const Mustache = require("mustache");
 const fs = require("fs");
 
 const README_TEMPLATE = "./readme.mustache";
+const NUMBER_OF_PAGES = 3;
+
+async function scrapeTopics(page, url) {
+  await page.goto(url);
+  const topics = await page.evaluate(() =>
+    [...document.querySelectorAll(".topic-tag")].map((tag) => tag.innerText),
+  );
+  return topics;
+}
 
 async function runPuppeteer() {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
-  await page.goto("https://github.com/willemverbuyst?tab=repositories");
-  const frame = page.mainFrame();
-  const topicsPageOne = await frame.evaluate(() =>
-    [...document.querySelectorAll(".topic-tag")].map((tag) => tag.innerText),
-  );
+  const baseUrl = "https://github.com/willemverbuyst?tab=repositories";
+  let allTopics = [];
 
-  await page.goto("https://github.com/willemverbuyst?page=2&tab=repositories");
-  const frame2 = page.mainFrame();
-  const topicsPageTwo = await frame2.evaluate(() =>
-    [...document.querySelectorAll(".topic-tag")].map((tag) => tag.innerText),
-  );
-
-  await page.goto("https://github.com/willemverbuyst?page=3&tab=repositories");
-  const frame3 = page.mainFrame();
-  const topicsPageThree = await frame3.evaluate(() =>
-    [...document.querySelectorAll(".topic-tag")].map((tag) => tag.innerText),
-  );
+  for (let i = 1; i <= NUMBER_OF_PAGES; i++) {
+    const url = i === 1 ? baseUrl : `${baseUrl}&page=${i}`;
+    const topics = await scrapeTopics(page, url);
+    allTopics = allTopics.concat(topics);
+  }
 
   await page.close();
-
   await browser.close();
 
-  return [...topicsPageOne, ...topicsPageTwo, ...topicsPageThree];
+  return allTopics;
 }
 
 function removeDuplicates(topics) {
