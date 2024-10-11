@@ -3,6 +3,10 @@
 <p>What you might find here:</p>
 
 <p align="center">
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
+  <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
   <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
@@ -14,10 +18,6 @@
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="node.js" src="https://img.shields.io/badge/node.js-informational?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="prisma" src="https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
-  <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
-  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
   <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
@@ -76,5 +76,5 @@
   <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:26:44 AM 10&#x2F;10&#x2F;2024</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:26:46 AM 10&#x2F;11&#x2F;2024</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
