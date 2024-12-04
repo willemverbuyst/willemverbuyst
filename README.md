@@ -3,6 +3,9 @@
 <p>What you might find here:</p>
 
 <p align="center">
+  <img alt="go" src="https://img.shields.io/badge/go-informational?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="svelte" src="https://img.shields.io/badge/svelte-informational?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <img alt="wails" src="https://img.shields.io/badge/wails-informational?style=for-the-badge&logo=wails&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
@@ -47,7 +50,6 @@
   <img alt="parallax" src="https://img.shields.io/badge/parallax-informational?style=for-the-badge&logo=parallax&logoColor=white"/>
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="nestjs" src="https://img.shields.io/badge/nestjs-informational?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img alt="go" src="https://img.shields.io/badge/go-informational?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="htmx" src="https://img.shields.io/badge/htmx-informational?style=for-the-badge&logo=htmx&logoColor=white"/>
   <img alt="obsidian" src="https://img.shields.io/badge/obsidian-informational?style=for-the-badge&logo=obsidian&logoColor=white"/>
   <img alt="webpack" src="https://img.shields.io/badge/webpack-informational?style=for-the-badge&logo=webpack&logoColor=white"/>
@@ -55,7 +57,6 @@
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="swagger" src="https://img.shields.io/badge/swagger-informational?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img alt="gin" src="https://img.shields.io/badge/gin-informational?style=for-the-badge&logo=gin&logoColor=white"/>
-  <img alt="svelte" src="https://img.shields.io/badge/svelte-informational?style=for-the-badge&logo=svelte&logoColor=white"/>
   <img alt="xstate" src="https://img.shields.io/badge/xstate-informational?style=for-the-badge&logo=xstate&logoColor=white"/>
   <img alt="powershell" src="https://img.shields.io/badge/powershell-informational?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img alt="batchfile" src="https://img.shields.io/badge/batchfile-informational?style=for-the-badge&logo=batchfile&logoColor=white"/>
@@ -77,5 +78,5 @@
   <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:29:26 AM 12&#x2F;3&#x2F;2024</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:28:56 AM 12&#x2F;4&#x2F;2024</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
