@@ -3,6 +3,9 @@
 <p>What you might find here:</p>
 
 <p align="center">
+  <img alt="fhir" src="https://img.shields.io/badge/fhir-informational?style=for-the-badge&logo=fhir&logoColor=white"/>
+  <img alt="oak" src="https://img.shields.io/badge/oak-informational?style=for-the-badge&logo=oak&logoColor=white"/>
+  <img alt="deno" src="https://img.shields.io/badge/deno-informational?style=for-the-badge&logo=deno&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
   <img alt="puppeteer" src="https://img.shields.io/badge/puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white"/>
@@ -21,7 +24,6 @@
   <img alt="chakraui" src="https://img.shields.io/badge/chakraui-informational?style=for-the-badge&logo=chakraui&logoColor=white"/>
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  <img alt="deno" src="https://img.shields.io/badge/deno-informational?style=for-the-badge&logo=deno&logoColor=white"/>
   <img alt="go" src="https://img.shields.io/badge/go-informational?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="svelte" src="https://img.shields.io/badge/svelte-informational?style=for-the-badge&logo=svelte&logoColor=white"/>
   <img alt="wails" src="https://img.shields.io/badge/wails-informational?style=for-the-badge&logo=wails&logoColor=white"/>
@@ -78,5 +80,5 @@
   <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:27:51 AM 12&#x2F;19&#x2F;2024</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:26:27 AM 12&#x2F;20&#x2F;2024</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
