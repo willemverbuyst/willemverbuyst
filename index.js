@@ -33,6 +33,11 @@ async function runPuppeteer() {
 }
 
 function removeDuplicates(topics) {
+  topics.sort(
+    (a, b) =>
+      topics.filter((topic) => topic === b).length -
+      topics.filter((topic) => topic === a).length,
+  );
   return [...new Set(topics)];
 }
 
