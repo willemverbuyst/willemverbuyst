@@ -1,6 +1,6 @@
 ## What is this?
 
-Use puppeteer to collect the topics of your repos (on page one of the repositories page)
+Use puppeteer to collect the topics of your repos
 
 Use mustache for templating and generate badges dynamically
 
