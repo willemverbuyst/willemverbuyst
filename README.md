@@ -11,8 +11,8 @@
   <img alt="express" src="https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="go" src="https://img.shields.io/badge/go-informational?style=for-the-badge&logo=go&logoColor=white"/>
-  <img alt="playwright" src="https://img.shields.io/badge/playwright-informational?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img alt="playwright" src="https://img.shields.io/badge/playwright-informational?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img alt="cypress" src="https://img.shields.io/badge/cypress-informational?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img alt="deno" src="https://img.shields.io/badge/deno-informational?style=for-the-badge&logo=deno&logoColor=white"/>
   <img alt="docker" src="https://img.shields.io/badge/docker-informational?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -80,5 +80,5 @@
   <img alt="xlam" src="https://img.shields.io/badge/xlam-informational?style=for-the-badge&logo=xlam&logoColor=white"/>
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:25:41 AM 1&#x2F;23&#x2F;2025</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:25:58 AM 1&#x2F;24&#x2F;2025</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
