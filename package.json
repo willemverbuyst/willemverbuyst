@@ -21,6 +21,6 @@
   "devDependencies": {
     "mustache": "^4.2.0",
     "prettier": "^3.4.2",
-    "puppeteer": "^23.11.1"
+    "puppeteer": "^24.1.1"
   }
 }
