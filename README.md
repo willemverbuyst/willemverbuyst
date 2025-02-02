@@ -38,10 +38,10 @@
   <img alt="gin" src="https://img.shields.io/badge/gin-informational?style=for-the-badge&logo=gin&logoColor=white"/>
   <img alt="powershell" src="https://img.shields.io/badge/powershell-informational?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img alt="mermaidjs" src="https://img.shields.io/badge/mermaidjs-informational?style=for-the-badge&logo=mermaidjs&logoColor=white"/>
-  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
-  <img alt="lexical" src="https://img.shields.io/badge/lexical-informational?style=for-the-badge&logo=lexical&logoColor=white"/>
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
+  <img alt="lexical" src="https://img.shields.io/badge/lexical-informational?style=for-the-badge&logo=lexical&logoColor=white"/>
   <img alt="prisma" src="https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img alt="parallax" src="https://img.shields.io/badge/parallax-informational?style=for-the-badge&logo=parallax&logoColor=white"/>
   <img alt="oak" src="https://img.shields.io/badge/oak-informational?style=for-the-badge&logo=oak&logoColor=white"/>
@@ -80,5 +80,5 @@
   <img alt="xlam" src="https://img.shields.io/badge/xlam-informational?style=for-the-badge&logo=xlam&logoColor=white"/>
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:24:37 AM 2&#x2F;1&#x2F;2025</p>
+<p align="center">This <i>README</i> is auto-generated!</br>Last update: 6:23:44 AM 2&#x2F;2&#x2F;2025</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/main.yml/badge.svg" /></p>
