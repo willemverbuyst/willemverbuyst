@@ -55,7 +55,7 @@ def update_readme(repo_topics):
     
     for topic in all_topics:
       badge = {
-        "alt": topic,
+        "alt": topic.replace("-", " "),
         "src": f"https://img.shields.io/badge/{topic}-informational?style=for-the-badge&logo={topic}&logoColor=white"
       }
       badges.append(badge)
