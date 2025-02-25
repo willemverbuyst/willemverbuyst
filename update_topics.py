@@ -44,15 +44,12 @@ def update_readme(repo_topics):
     )  # Load template from the current directory
     template = env.get_template("template.md")  # Load the template file
 
-    # Badge examples (can be modified dynamically)
-    badges = []
-
-    # create an array with all topics, remove duplicates and sort them
     all_topics = set()
     for topics in repo_topics.values():
         all_topics.update(topics)
     all_topics = sorted(all_topics)
 
+    badges = []
     for t in all_topics:
         topic = t.replace("-", ".")
         badge = {
