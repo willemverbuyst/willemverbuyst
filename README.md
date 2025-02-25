@@ -16,7 +16,7 @@
 
   <img alt="chakraui" src="https://img.shields.io/badge/chakraui-informational?style=for-the-badge&logo=chakraui&logoColor=white"/>
 
-  <img alt="chart js" src="https://img.shields.io/badge/chart-js-informational?style=for-the-badge&logo=chart-js&logoColor=white"/>
+  <img alt="chart-js" src="https://img.shields.io/badge/chart-js-informational?style=for-the-badge&logo=chart-js&logoColor=white"/>
 
   <img alt="css3" src="https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white"/>
 
@@ -72,9 +72,9 @@
 
   <img alt="nestjs" src="https://img.shields.io/badge/nestjs-informational?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
-  <img alt="next js" src="https://img.shields.io/badge/next-js-informational?style=for-the-badge&logo=next-js&logoColor=white"/>
+  <img alt="next-js" src="https://img.shields.io/badge/next-js-informational?style=for-the-badge&logo=next-js&logoColor=white"/>
 
-  <img alt="node js" src="https://img.shields.io/badge/node-js-informational?style=for-the-badge&logo=node-js&logoColor=white"/>
+  <img alt="node-js" src="https://img.shields.io/badge/node-js-informational?style=for-the-badge&logo=node-js&logoColor=white"/>
 
   <img alt="npm" src="https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm&logoColor=white"/>
 
@@ -114,7 +114,7 @@
 
   <img alt="shadcnui" src="https://img.shields.io/badge/shadcnui-informational?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 
-  <img alt="socket io" src="https://img.shields.io/badge/socket-io-informational?style=for-the-badge&logo=socket-io&logoColor=white"/>
+  <img alt="socket-io" src="https://img.shields.io/badge/socket-io-informational?style=for-the-badge&logo=socket-io&logoColor=white"/>
 
   <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
 
@@ -128,7 +128,7 @@
 
   <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-informational?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-  <img alt="three js" src="https://img.shields.io/badge/three-js-informational?style=for-the-badge&logo=three-js&logoColor=white"/>
+  <img alt="three-js" src="https://img.shields.io/badge/three-js-informational?style=for-the-badge&logo=three-js&logoColor=white"/>
 
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -138,7 +138,7 @@
 
   <img alt="vitest" src="https://img.shields.io/badge/vitest-informational?style=for-the-badge&logo=vitest&logoColor=white"/>
 
-  <img alt="vue js" src="https://img.shields.io/badge/vue-js-informational?style=for-the-badge&logo=vue-js&logoColor=white"/>
+  <img alt="vue-js" src="https://img.shields.io/badge/vue-js-informational?style=for-the-badge&logo=vue-js&logoColor=white"/>
 
   <img alt="wails" src="https://img.shields.io/badge/wails-informational?style=for-the-badge&logo=wails&logoColor=white"/>
 
@@ -154,5 +154,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-02-25 05:48:57</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-02-25 05:52:15</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
