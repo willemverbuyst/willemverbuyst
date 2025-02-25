@@ -15,7 +15,7 @@ HEADERS = {
 
 def get_repositories():
     """Fetch all repositories of the authenticated user."""
-    url = f"{GITHUB_API_URL}/user/repos?per_page=100"
+    url = f"{GITHUB_API_URL}/users/{USERNAME}/repos?per_page=100"
     response = requests.get(url, headers=HEADERS)
     
     if response.status_code != 200:
