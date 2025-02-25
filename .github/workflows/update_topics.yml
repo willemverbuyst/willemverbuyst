@@ -22,7 +22,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install Dependencies
-        run: pip install requests
+        run: pip install requests jinja2
 
       - name: Run Script to Fetch Topics
         run: python update_topics.py
