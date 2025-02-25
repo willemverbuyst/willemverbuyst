@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: checkout
@@ -18,7 +18,7 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v4
         with:
-          node-version: "18.x"
+          node-version: "lts/*"
       - name: install dependencies
         run: npm install
       - name: generate README file
