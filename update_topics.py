@@ -5,7 +5,7 @@ import requests
 # GitHub API details
 GITHUB_API_URL = "https://api.github.com"
 USERNAME = "willemverbuyst"
-TOKEN = os.getenv("GITHUB_TOKEN")
+TOKEN = os.getenv("GH_TOKEN")
 
 # Headers for authentication and preview API version
 HEADERS = {
