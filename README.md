@@ -1,2 +1,76 @@
 # 📌 Repository Topics
 
+- **advanced-react-playground**: react
+- **auto-start-apps**: powershell, batchfile
+- **band-on-the-run**: No topics
+- **band-schema**: No topics
+- **bookworm**: fastapi, sql, bash, python, chakraui, vite, vitest, overmind
+- **breath-tracker**: react, typescript, vite
+- **bsn-js**: githubactions, typescript, npm, eslint
+- **bsn-tool**: css3, html5, typescript, vite, vitest, cypress
+- **commuter-log-client**: javascript, svelte, vite
+- **commuter-log-server**: express, mongodb, node-js
+- **data-structures-and-algorithms**: No topics
+- **design-system-tutorial**: No topics
+- **example-react-use-web-worker**: No topics
+- **fake-resume**: No topics
+- **fastify-try-out**: fastify, ejs, tailwindcss
+- **fhir-patient**: playwright, fhir, react, typescript
+- **fhir-placeholder-api**: deno, fhir, oak
+- **fhir-resource-validator**: typescript, zod, cypress
+- **filter-search-sort**: react, typescript, vite
+- **form-builder**: react, styledcomponents
+- **gh-contributions-calculation**: No topics
+- **gh-contributions-collection**: deno
+- **gh-contributions-level**: No topics
+- **gh-contributions-table**: No topics
+- **give-me-one-more-shot-client**: react, typescript, vite, zod
+- **give-me-one-more-shot-server**: go, sqlite, gin, swagger
+- **go-bsn-tool**: go, svelte, wails
+- **hexagon-grid-generator**: typescript, css3, html5, playwright
+- **highlight-code**: css3, html5, typescript, regex, playwright
+- **jsonplaceholder-go-htmx**: go, htmx
+- **jupyter-notebook**: jupyter
+- **knowledge-base**: obsidian
+- **lexical-rte**: lexical, react, typescript
+- **login-app**: react, typescript, vitest
+- **medium-clap**: No topics
+- **my-car-value-nestjs**: nestjs, typescript
+- **my-car-value-nextjs**: tailwindcss, next-js
+- **my-hangboard-app**: No topics
+- **notes**: bootstrap, react
+- **numbers-trivia**: typescript, webpack, webcomponents
+- **oppan-kanban-style-client**: svelte, xstate, vite
+- **overmind-playground**: overmind, react
+- **polymorphic-components**: react, typescript
+- **portfolio-2020**: sass, githubpages
+- **project-pieterpad**: jest, mongodb, typescript, cypress, mermaidjs, socket-io
+- **project-pieterpad-chat**: No topics
+- **random-numbers**: lodash, githubactions, shadcnui, next-js
+- **react-hook-form-playground**: react
+- **react-hooks**: bootstrap, react, typescript
+- **recipe**: angular
+- **run-logs**: docker, mongodb, redis, express, dockercompose
+- **school-dashboard-client**: chart-js, react, antdesign, reactquery
+- **school-dashboard-server**: express, prisma, node-js, typescript
+- **server-sent-events**: No topics
+- **shell-scripts**: powershell, bash
+- **skills-secure-repository-supply-chain**: No topics
+- **socket-io-chat**: No topics
+- **socket-playground**: react, tailwindcss, socket-io, deno, docker, python, shadcnui
+- **todo-app-vue**: vue-js
+- **toto-game**: markdown, mermaidjs
+- **toto-game-client**: mui, react, typescript, redux
+- **toto-game-e2e**: puppeteer
+- **toto-game-postman**: postman
+- **toto-game-rules-service**: docker, go, mongodb, swagger, gin
+- **toto-game-server**: typescript, sequelize, express
+- **toto-game-soccer-api**: fastapi, python
+- **ts-filter**: No topics
+- **ts-overwrite**: No topics
+- **vba-bsn-validation**: vba
+- **vba-snippets**: vba, xlam
+- **vue-expense-tracker**: vue-js
+- **web-dev-skills**: three-js
+- **who-am-i**: parallax, html5, css3
+- **willemverbuyst**: javascript, mustache, puppeteer, githubactions
