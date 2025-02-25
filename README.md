@@ -70,8 +70,6 @@
 
   <img alt="mui" src="https://img.shields.io/badge/mui-informational?style=for-the-badge&logo=mui&logoColor=white"/>
 
-  <img alt="mustache" src="https://img.shields.io/badge/mustache-informational?style=for-the-badge&logo=mustache&logoColor=white"/>
-
   <img alt="nestjs" src="https://img.shields.io/badge/nestjs-informational?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
   <img alt="next-js" src="https://img.shields.io/badge/next-js-informational?style=for-the-badge&logo=next-js&logoColor=white"/>
@@ -156,5 +154,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-02-25 05:40:54</p>
-<p align="center"><img alt="build passing badge" src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO/actions/workflows/update_topics.yml/badge.svg" /></p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-02-25 05:43:44</p>
+<p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
