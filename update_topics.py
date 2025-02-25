@@ -53,8 +53,8 @@ def update_readme(repo_topics):
         all_topics.update(topics)
     all_topics = sorted(all_topics)
 
-    for topic in all_topics:
-        topic.replace("-", ".")
+    for t in all_topics:
+        topic = t.replace("-", ".")
         badge = {
             "alt": topic,
             "src": f"https://img.shields.io/badge/{topic}-informational?style=for-the-badge&logo={topic}&logoColor=white",
