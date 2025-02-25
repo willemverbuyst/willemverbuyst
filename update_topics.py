@@ -9,8 +9,9 @@ TOKEN = os.getenv("GITHUB_TOKEN")
 
 # Headers for authentication and preview API version
 HEADERS = {
-    "Authorization": f"token {TOKEN}",
-    "Accept": "application/vnd.github.mercy-preview+json"
+    "Authorization": f"Bearer {TOKEN}",
+    "X-GitHub-Api-Version": "2022-11-28",
+    "Accept": "application/vnd.github+json"
 }
 
 def get_repositories():
