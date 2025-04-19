@@ -126,6 +126,8 @@
 
   <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-informational?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
+  <img alt="tanstack.query" src="https://img.shields.io/badge/tanstack.query-informational?style=for-the-badge&logo=tanstack.query&logoColor=white"/>
+
   <img alt="three.js" src="https://img.shields.io/badge/three.js-informational?style=for-the-badge&logo=three.js&logoColor=white"/>
 
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -152,5 +154,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-04-18 06:33:25</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-04-19 06:31:02</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
