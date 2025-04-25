@@ -130,7 +130,7 @@
 
   <img alt="vitest" src="https://img.shields.io/badge/vitest-informational?style=for-the-badge&logo=vitest&logoColor=white"/>
 
-  <img alt="vue" src="https://img.shields.io/badge/vue-informational?style=for-the-badge&logo=vue&logoColor=white"/>
+  <img alt="vue.js" src="https://img.shields.io/badge/vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=white"/>
 
   <img alt="wails" src="https://img.shields.io/badge/wails-informational?style=for-the-badge&logo=wails&logoColor=white"/>
 
@@ -142,5 +142,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-04-25 04:40:59</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-04-25 04:42:49</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
