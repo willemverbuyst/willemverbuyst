@@ -4,8 +4,6 @@
 
 <p align="center">
 
-  <img alt="angular" src="https://img.shields.io/badge/angular-informational?style=for-the-badge&logo=angular&logoColor=white"/>
-
   <img alt="antdesign" src="https://img.shields.io/badge/antdesign-informational?style=for-the-badge&logo=antdesign&logoColor=white"/>
 
   <img alt="bash" src="https://img.shields.io/badge/bash-informational?style=for-the-badge&logo=bash&logoColor=white"/>
@@ -53,8 +51,6 @@
   <img alt="htmx" src="https://img.shields.io/badge/htmx-informational?style=for-the-badge&logo=htmx&logoColor=white"/>
 
   <img alt="jest" src="https://img.shields.io/badge/jest-informational?style=for-the-badge&logo=jest&logoColor=white"/>
-
-  <img alt="jupyter" src="https://img.shields.io/badge/jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
   <img alt="lexical" src="https://img.shields.io/badge/lexical-informational?style=for-the-badge&logo=lexical&logoColor=white"/>
 
@@ -136,8 +132,6 @@
 
   <img alt="vue" src="https://img.shields.io/badge/vue-informational?style=for-the-badge&logo=vue&logoColor=white"/>
 
-  <img alt="vue.js" src="https://img.shields.io/badge/vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=white"/>
-
   <img alt="wails" src="https://img.shields.io/badge/wails-informational?style=for-the-badge&logo=wails&logoColor=white"/>
 
   <img alt="xlam" src="https://img.shields.io/badge/xlam-informational?style=for-the-badge&logo=xlam&logoColor=white"/>
@@ -148,5 +142,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-04-25 04:24:15</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-04-25 04:40:59</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
