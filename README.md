@@ -96,8 +96,6 @@
 
   <img alt="redux" src="https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&logoColor=white"/>
 
-  <img alt="regex" src="https://img.shields.io/badge/regex-informational?style=for-the-badge&logo=regex&logoColor=white"/>
-
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
 
   <img alt="sequelize" src="https://img.shields.io/badge/sequelize-informational?style=for-the-badge&logo=sequelize&logoColor=white"/>
@@ -136,5 +134,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-05-01 06:34:46</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-05-02 06:34:19</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
