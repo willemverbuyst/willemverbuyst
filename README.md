@@ -132,7 +132,9 @@
 
   <img alt="zod" src="https://img.shields.io/badge/zod-informational?style=for-the-badge&logo=zod&logoColor=white"/>
 
+  <img alt="zustand" src="https://img.shields.io/badge/zustand-informational?style=for-the-badge&logo=zustand&logoColor=white"/>
+
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-06-10 06:36:08</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-06-11 06:36:38</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
