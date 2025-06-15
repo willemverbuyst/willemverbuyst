@@ -78,6 +78,8 @@
 
   <img alt="playwright" src="https://img.shields.io/badge/playwright-informational?style=for-the-badge&logo=playwright&logoColor=white"/>
 
+  <img alt="pnpm" src="https://img.shields.io/badge/pnpm-informational?style=for-the-badge&logo=pnpm&logoColor=white"/>
+
   <img alt="postman" src="https://img.shields.io/badge/postman-informational?style=for-the-badge&logo=postman&logoColor=white"/>
 
   <img alt="powershell" src="https://img.shields.io/badge/powershell-informational?style=for-the-badge&logo=powershell&logoColor=white"/>
@@ -116,6 +118,8 @@
 
   <img alt="three.js" src="https://img.shields.io/badge/three.js-informational?style=for-the-badge&logo=three.js&logoColor=white"/>
 
+  <img alt="turborepo" src="https://img.shields.io/badge/turborepo-informational?style=for-the-badge&logo=turborepo&logoColor=white"/>
+
   <img alt="typescript" src="https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white"/>
 
   <img alt="vba" src="https://img.shields.io/badge/vba-informational?style=for-the-badge&logo=vba&logoColor=white"/>
@@ -134,5 +138,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-06-14 06:33:07</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-06-15 06:33:27</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
