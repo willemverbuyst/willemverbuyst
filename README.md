@@ -10,6 +10,8 @@
 
   <img alt="batchfile" src="https://img.shields.io/badge/batchfile-informational?style=for-the-badge&logo=batchfile&logoColor=white"/>
 
+  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
   <img alt="chakraui" src="https://img.shields.io/badge/chakraui-informational?style=for-the-badge&logo=chakraui&logoColor=white"/>
 
   <img alt="chart.js" src="https://img.shields.io/badge/chart.js-informational?style=for-the-badge&logo=chart.js&logoColor=white"/>
@@ -59,6 +61,8 @@
   <img alt="mermaidjs" src="https://img.shields.io/badge/mermaidjs-informational?style=for-the-badge&logo=mermaidjs&logoColor=white"/>
 
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+  <img alt="monodb" src="https://img.shields.io/badge/monodb-informational?style=for-the-badge&logo=monodb&logoColor=white"/>
 
   <img alt="mui" src="https://img.shields.io/badge/mui-informational?style=for-the-badge&logo=mui&logoColor=white"/>
 
@@ -138,5 +142,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-06-15 06:33:27</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-06-16 06:38:14</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
