@@ -6,4 +6,4 @@ updates:
       interval: "monthly"
       time: "02:00"
       day: "sunday"
-    open-pull-requests-limit: 0
+    open-pull-requests-limit: 5
