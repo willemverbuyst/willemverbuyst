@@ -76,8 +76,6 @@
 
   <img alt="npm" src="https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm&logoColor=white"/>
 
-  <img alt="obsidian" src="https://img.shields.io/badge/obsidian-informational?style=for-the-badge&logo=obsidian&logoColor=white"/>
-
   <img alt="overmind" src="https://img.shields.io/badge/overmind-informational?style=for-the-badge&logo=overmind&logoColor=white"/>
 
   <img alt="parallax" src="https://img.shields.io/badge/parallax-informational?style=for-the-badge&logo=parallax&logoColor=white"/>
@@ -146,5 +144,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-10-22 06:37:16</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-10-23 06:36:19</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
