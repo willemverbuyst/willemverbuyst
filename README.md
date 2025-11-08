@@ -96,6 +96,8 @@
 
   <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
 
+  <img alt="react.hook.form" src="https://img.shields.io/badge/react.hook.form-informational?style=for-the-badge&logo=react.hook.form&logoColor=white"/>
+
   <img alt="reactquery" src="https://img.shields.io/badge/reactquery-informational?style=for-the-badge&logo=reactquery&logoColor=white"/>
 
   <img alt="redis" src="https://img.shields.io/badge/redis-informational?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -105,6 +107,8 @@
   <img alt="sass" src="https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass&logoColor=white"/>
 
   <img alt="sequelize" src="https://img.shields.io/badge/sequelize-informational?style=for-the-badge&logo=sequelize&logoColor=white"/>
+
+  <img alt="shadcn.ui" src="https://img.shields.io/badge/shadcn.ui-informational?style=for-the-badge&logo=shadcn.ui&logoColor=white"/>
 
   <img alt="shadcnui" src="https://img.shields.io/badge/shadcnui-informational?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 
@@ -144,5 +148,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-11-07 06:37:43</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-11-08 06:33:43</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
