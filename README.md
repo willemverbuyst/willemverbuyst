@@ -16,6 +16,8 @@
 
   <img alt="chart.js" src="https://img.shields.io/badge/chart.js-informational?style=for-the-badge&logo=chart.js&logoColor=white"/>
 
+  <img alt="css" src="https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css&logoColor=white"/>
+
   <img alt="css3" src="https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white"/>
 
   <img alt="cypress" src="https://img.shields.io/badge/cypress-informational?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -64,8 +66,6 @@
 
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-  <img alt="monodb" src="https://img.shields.io/badge/monodb-informational?style=for-the-badge&logo=monodb&logoColor=white"/>
-
   <img alt="mui" src="https://img.shields.io/badge/mui-informational?style=for-the-badge&logo=mui&logoColor=white"/>
 
   <img alt="nestjs" src="https://img.shields.io/badge/nestjs-informational?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -96,7 +96,7 @@
 
   <img alt="react" src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white"/>
 
-  <img alt="react.hook.form" src="https://img.shields.io/badge/react.hook.form-informational?style=for-the-badge&logo=react.hook.form&logoColor=white"/>
+  <img alt="reacthookform" src="https://img.shields.io/badge/reacthookform-informational?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 
   <img alt="reactquery" src="https://img.shields.io/badge/reactquery-informational?style=for-the-badge&logo=reactquery&logoColor=white"/>
 
@@ -148,5 +148,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-11-08 06:33:43</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-11-09 03:25:43</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
