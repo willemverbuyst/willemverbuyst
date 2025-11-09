@@ -18,8 +18,6 @@
 
   <img alt="css" src="https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css&logoColor=white"/>
 
-  <img alt="css3" src="https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white"/>
-
   <img alt="cypress" src="https://img.shields.io/badge/cypress-informational?style=for-the-badge&logo=cypress&logoColor=white"/>
 
   <img alt="deno" src="https://img.shields.io/badge/deno-informational?style=for-the-badge&logo=deno&logoColor=white"/>
@@ -148,5 +146,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-11-09 03:30:22</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-11-09 03:33:19</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
