@@ -106,8 +106,6 @@
 
   <img alt="sequelize" src="https://img.shields.io/badge/sequelize-informational?style=for-the-badge&logo=sequelize&logoColor=white"/>
 
-  <img alt="shadcn.ui" src="https://img.shields.io/badge/shadcn.ui-informational?style=for-the-badge&logo=shadcn.ui&logoColor=white"/>
-
   <img alt="shadcnui" src="https://img.shields.io/badge/shadcnui-informational?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 
   <img alt="socket.io" src="https://img.shields.io/badge/socket.io-informational?style=for-the-badge&logo=socket.io&logoColor=white"/>
@@ -146,5 +144,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-11-16 06:35:44</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-11-16 10:50:14</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
