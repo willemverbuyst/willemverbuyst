@@ -70,8 +70,6 @@
 
   <img alt="next.js" src="https://img.shields.io/badge/next.js-informational?style=for-the-badge&logo=next.js&logoColor=white"/>
 
-  <img alt="nextjs" src="https://img.shields.io/badge/nextjs-informational?style=for-the-badge&logo=nextjs&logoColor=white"/>
-
   <img alt="node.js" src="https://img.shields.io/badge/node.js-informational?style=for-the-badge&logo=node.js&logoColor=white"/>
 
   <img alt="npm" src="https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm&logoColor=white"/>
@@ -148,5 +146,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-11-29 06:36:22</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-11-30 06:37:29</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
