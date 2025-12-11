@@ -38,6 +38,8 @@
 
   <img alt="gin" src="https://img.shields.io/badge/gin-informational?style=for-the-badge&logo=gin&logoColor=white"/>
 
+  <img alt="gin.gonic" src="https://img.shields.io/badge/gin.gonic-informational?style=for-the-badge&logo=gin.gonic&logoColor=white"/>
+
   <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
@@ -112,6 +114,8 @@
 
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
+  <img alt="surveyjs" src="https://img.shields.io/badge/surveyjs-informational?style=for-the-badge&logo=surveyjs&logoColor=white"/>
+
   <img alt="svelte" src="https://img.shields.io/badge/svelte-informational?style=for-the-badge&logo=svelte&logoColor=white"/>
 
   <img alt="swagger" src="https://img.shields.io/badge/swagger-informational?style=for-the-badge&logo=swagger&logoColor=white"/>
@@ -144,5 +148,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-12-10 06:41:21</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-12-11 06:42:42</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
