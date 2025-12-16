@@ -38,8 +38,6 @@
 
   <img alt="gin" src="https://img.shields.io/badge/gin-informational?style=for-the-badge&logo=gin&logoColor=white"/>
 
-  <img alt="gin.gonic" src="https://img.shields.io/badge/gin.gonic-informational?style=for-the-badge&logo=gin.gonic&logoColor=white"/>
-
   <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
   <img alt="githubpages" src="https://img.shields.io/badge/githubpages-informational?style=for-the-badge&logo=githubpages&logoColor=white"/>
@@ -148,5 +146,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-12-15 06:44:35</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2025-12-16 06:42:36</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
