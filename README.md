@@ -16,6 +16,8 @@
 
   <img alt="css" src="https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css&logoColor=white"/>
 
+  <img alt="cursor" src="https://img.shields.io/badge/cursor-informational?style=for-the-badge&logo=cursor&logoColor=white"/>
+
   <img alt="cypress" src="https://img.shields.io/badge/cypress-informational?style=for-the-badge&logo=cypress&logoColor=white"/>
 
   <img alt="deno" src="https://img.shields.io/badge/deno-informational?style=for-the-badge&logo=deno&logoColor=white"/>
@@ -134,6 +136,8 @@
 
   <img alt="vue.js" src="https://img.shields.io/badge/vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=white"/>
 
+  <img alt="vuejs" src="https://img.shields.io/badge/vuejs-informational?style=for-the-badge&logo=vuejs&logoColor=white"/>
+
   <img alt="xlam" src="https://img.shields.io/badge/xlam-informational?style=for-the-badge&logo=xlam&logoColor=white"/>
 
   <img alt="xstate" src="https://img.shields.io/badge/xstate-informational?style=for-the-badge&logo=xstate&logoColor=white"/>
@@ -144,5 +148,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-05 07:01:47</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-06 06:09:46</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
