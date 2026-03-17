@@ -28,8 +28,6 @@
 
   <img alt="ejs" src="https://img.shields.io/badge/ejs-informational?style=for-the-badge&logo=ejs&logoColor=white"/>
 
-  <img alt="eslint" src="https://img.shields.io/badge/eslint-informational?style=for-the-badge&logo=eslint&logoColor=white"/>
-
   <img alt="express" src="https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white"/>
 
   <img alt="fastapi" src="https://img.shields.io/badge/fastapi-informational?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -118,8 +116,6 @@
 
   <img alt="swagger" src="https://img.shields.io/badge/swagger-informational?style=for-the-badge&logo=swagger&logoColor=white"/>
 
-  <img alt="tailwind" src="https://img.shields.io/badge/tailwind-informational?style=for-the-badge&logo=tailwind&logoColor=white"/>
-
   <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-informational?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
   <img alt="three.js" src="https://img.shields.io/badge/three.js-informational?style=for-the-badge&logo=three.js&logoColor=white"/>
@@ -146,5 +142,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-16 07:40:41</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-17 07:13:37</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
