@@ -24,8 +24,6 @@
 
   <img alt="docker" src="https://img.shields.io/badge/docker-informational?style=for-the-badge&logo=docker&logoColor=white"/>
 
-  <img alt="dockercompose" src="https://img.shields.io/badge/dockercompose-informational?style=for-the-badge&logo=dockercompose&logoColor=white"/>
-
   <img alt="effect" src="https://img.shields.io/badge/effect-informational?style=for-the-badge&logo=effect&logoColor=white"/>
 
   <img alt="ejs" src="https://img.shields.io/badge/ejs-informational?style=for-the-badge&logo=ejs&logoColor=white"/>
@@ -144,5 +142,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-17 15:11:44</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-18 07:11:37</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
