@@ -108,8 +108,6 @@
 
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-  <img alt="surveyjs" src="https://img.shields.io/badge/surveyjs-informational?style=for-the-badge&logo=surveyjs&logoColor=white"/>
-
   <img alt="svelte" src="https://img.shields.io/badge/svelte-informational?style=for-the-badge&logo=svelte&logoColor=white"/>
 
   <img alt="swagger" src="https://img.shields.io/badge/swagger-informational?style=for-the-badge&logo=swagger&logoColor=white"/>
@@ -140,5 +138,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-22 06:59:28</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-23 07:21:09</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
