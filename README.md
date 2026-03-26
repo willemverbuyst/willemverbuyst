@@ -128,8 +128,6 @@
 
   <img alt="vue.js" src="https://img.shields.io/badge/vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=white"/>
 
-  <img alt="xlam" src="https://img.shields.io/badge/xlam-informational?style=for-the-badge&logo=xlam&logoColor=white"/>
-
   <img alt="xstate" src="https://img.shields.io/badge/xstate-informational?style=for-the-badge&logo=xstate&logoColor=white"/>
 
   <img alt="zod" src="https://img.shields.io/badge/zod-informational?style=for-the-badge&logo=zod&logoColor=white"/>
@@ -138,5 +136,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-25 07:11:18</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-26 03:53:22</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
