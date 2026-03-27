@@ -72,6 +72,8 @@
 
   <img alt="parallax" src="https://img.shields.io/badge/parallax-informational?style=for-the-badge&logo=parallax&logoColor=white"/>
 
+  <img alt="php" src="https://img.shields.io/badge/php-informational?style=for-the-badge&logo=php&logoColor=white"/>
+
   <img alt="playwright" src="https://img.shields.io/badge/playwright-informational?style=for-the-badge&logo=playwright&logoColor=white"/>
 
   <img alt="pnpm" src="https://img.shields.io/badge/pnpm-informational?style=for-the-badge&logo=pnpm&logoColor=white"/>
@@ -136,5 +138,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-26 07:19:23</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-03-27 07:18:28</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
