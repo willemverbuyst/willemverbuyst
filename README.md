@@ -10,6 +10,8 @@
 
   <img alt="batchfile" src="https://img.shields.io/badge/batchfile-informational?style=for-the-badge&logo=batchfile&logoColor=white"/>
 
+  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
   <img alt="chakraui" src="https://img.shields.io/badge/chakraui-informational?style=for-the-badge&logo=chakraui&logoColor=white"/>
 
   <img alt="chart.js" src="https://img.shields.io/badge/chart.js-informational?style=for-the-badge&logo=chart.js&logoColor=white"/>
@@ -138,9 +140,7 @@
 
   <img alt="zod" src="https://img.shields.io/badge/zod-informational?style=for-the-badge&logo=zod&logoColor=white"/>
 
-  <img alt="zustand" src="https://img.shields.io/badge/zustand-informational?style=for-the-badge&logo=zustand&logoColor=white"/>
-
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-04-05 07:16:58</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-04-05 07:47:49</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
