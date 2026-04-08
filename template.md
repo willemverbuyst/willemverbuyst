@@ -1,12 +1,12 @@
-<h2>Hello <span>&#128075;</span></h2>
+# Hello 👋
 
-<p>What you might find here:</p>
+You can find the following topics in my repos.
 
-<p align="center">
 {% for badge in badges %}
-  <img alt="{{ badge.alt }}" src="{{ badge.src }}"/>
+![{{ badge.alt }}]({{ badge.src }})
 {% endfor %}
-</p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: {{ date }}</p>
-<p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg" /></p>
+This *README* is auto-generated!  
+Last update: {{ date }}
+
+![build passing badge](https://github.com/willemverbuyst/willemverbuyst/actions/workflows/update_topics.yml/badge.svg)
