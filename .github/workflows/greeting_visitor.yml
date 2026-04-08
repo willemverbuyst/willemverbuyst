@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       name:
-        description: "Your name"
+        description: "Who are you?"
         required: true
         type: string
       origin:
