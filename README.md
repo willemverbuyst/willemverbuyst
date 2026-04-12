@@ -110,6 +110,8 @@
 
   <img alt="shadcnui" src="https://img.shields.io/badge/shadcnui-informational?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 
+  <img alt="soap" src="https://img.shields.io/badge/soap-informational?style=for-the-badge&logo=soap&logoColor=white"/>
+
   <img alt="socket.io" src="https://img.shields.io/badge/socket.io-informational?style=for-the-badge&logo=socket.io&logoColor=white"/>
 
   <img alt="sql" src="https://img.shields.io/badge/sql-informational?style=for-the-badge&logo=sql&logoColor=white"/>
@@ -144,5 +146,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-04-12 07:13:26</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-04-12 08:36:34</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/generate_README.yml/badge.svg" /></p>
