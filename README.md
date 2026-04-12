@@ -38,6 +38,8 @@
 
   <img alt="fhir" src="https://img.shields.io/badge/fhir-informational?style=for-the-badge&logo=fhir&logoColor=white"/>
 
+  <img alt="gherkin" src="https://img.shields.io/badge/gherkin-informational?style=for-the-badge&logo=gherkin&logoColor=white"/>
+
   <img alt="gin" src="https://img.shields.io/badge/gin-informational?style=for-the-badge&logo=gin&logoColor=white"/>
 
   <img alt="githubactions" src="https://img.shields.io/badge/githubactions-informational?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -53,6 +55,8 @@
   <img alt="jest" src="https://img.shields.io/badge/jest-informational?style=for-the-badge&logo=jest&logoColor=white"/>
 
   <img alt="jquery" src="https://img.shields.io/badge/jquery-informational?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+  <img alt="karate" src="https://img.shields.io/badge/karate-informational?style=for-the-badge&logo=karate&logoColor=white"/>
 
   <img alt="lexical" src="https://img.shields.io/badge/lexical-informational?style=for-the-badge&logo=lexical&logoColor=white"/>
 
@@ -146,5 +150,5 @@
 
 </p>
 
-<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-04-12 08:36:34</p>
+<p align="center">This <i>README</i> is auto-generated!<br>Last update: 2026-04-12 13:51:06</p>
 <p align="center"><img alt="build passing badge" src="https://github.com/willemverbuyst/willemverbuyst/actions/workflows/generate_README.yml/badge.svg" /></p>
